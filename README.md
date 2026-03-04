@@ -70,8 +70,6 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173
-
 ## How the Agent Works
 
 The agent uses Claude's **tool use** feature with 3 tools:
